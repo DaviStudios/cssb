@@ -1,11 +1,11 @@
 {
 "#lang.name": "Czech",
-"#lang.credit": "Sylas",
+"#lang.credit": "sylasstormy",
 "land":"Země",
 "liquids":"Kapaliny",
 "life":"Život",
 "powders":"Prášky",
-"solids":"Pevné_Elementy",
+"solids":"Pevné Elementy",
 "energy":"Energie",
 "weapons":"Zbraně",
 "gases":"Plyny",
@@ -544,8 +544,4 @@
 "blaster": "Blaster",
 "propane_ice": "Zrmzlý_Propan",
 "molten_caustic_potash": "Rozteklý_Potaš",
-"pause": "Zastavit",
-"replace": "Vyměnit",
-"mods": "Módy",
-"settings": "Nastavení"
 }
